@@ -69,5 +69,10 @@
         "psr-4": {
             "LeagueTests\\": "tests/"
         }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "8.5.x-dev"
+        }
     }
 }
